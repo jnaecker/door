@@ -3,15 +3,13 @@ Assistant Professor -- Economics Department
 PAC 321 -- jnaecker@wesleyan.edu -- (860) 685-2503
 
 **Office Hours**
-Monday 1:30p-2:30p, Wednesday 9:30a-10:30a
+Monday 2:00p-3:00p, Wednesday 3:00p-4:00p
 or by appointment
 
-**Economics 211**: Experiments and Strategic Behavior
-Monday and Wednesday, 2:50p-4:10p -- PAC 004
-
 **Economics 301**: Microeconomic Analysis
-Monday and Wednesday, 10:50a-12:10 -- PAC 004
+Monday and Wednesday, 8:20a-9:40a -- PAC 002
 
+**Economics 311**: Behavioral Economics
+Monday and Wednesday, 10:50a-12:10p -- PAC 001
 
-
-![XKCD.com](https://imgs.xkcd.com/comics/cell_phones.png =500x)
+![XKCD.com](https://imgs.xkcd.com/comics/extrapolating.png =500x)
